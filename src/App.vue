@@ -73,6 +73,7 @@ html {
   color: #fff;
 }
 
+
 .credits-black {
   font-family: "Graduate", sans-serif;
   font-size: 16px;
